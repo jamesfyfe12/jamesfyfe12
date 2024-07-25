@@ -2,7 +2,7 @@
 - 👀 I’m interested in arduino, low level systems, C, Python.
 - 🌱 I’m currently learning C, Python, Arduino
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me jamesfyfe)84@gmail.com
+- 📫 How to reach me jamesfyfe084@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: i hate beans
 
