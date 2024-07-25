@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C, Python, Arduino
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jamesfyfe084@gmail.com
-- 😄 Pronouns: he
+- 😄 Pronouns: .................
 - ⚡ Fun fact: i hate beans
 
 <!---
